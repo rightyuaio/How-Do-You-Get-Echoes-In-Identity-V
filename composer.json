@@ -1,0 +1,8 @@
+{
+    "name": "identity-v-echoes/identity-v-echoes",
+    "description": "Link BELOW for identity V Echoes >>>",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
